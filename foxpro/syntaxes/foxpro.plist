@@ -7,6 +7,10 @@
 	<key>fileTypes</key>
 	<array>
 		<string>prg</string>
+		<string>sc2</string>
+		<string>vc2</string>
+		<string>mn2</string>
+		<string>pj2</string>
 	</array>
 	<key>keyEquivalent</key>
 	<string>^~A</string>
